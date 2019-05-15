@@ -10,7 +10,10 @@ mainpitch:
 
 description: WAM is the ultimate spot for...
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/coffee.png
+      text: >
+        all the latest
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -34,4 +37,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
