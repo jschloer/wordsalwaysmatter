@@ -7,5 +7,8 @@ featuredpost: false
 featuredimage: /img/products-grid1.jpg
 tags:
   - Introduction
+attachments:
+  - "/static/podcasts/mraz.mp3"
 ---
+
 This will be replaced shortly with an introductory blog post
